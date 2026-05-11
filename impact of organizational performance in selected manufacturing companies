@@ -1,3 +1,0 @@
-git remote add origin https://github.com/Pally-pal/Pally-pal.git
-git branch -M main
-git push -u origin main
